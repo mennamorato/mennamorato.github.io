@@ -1,3 +1,5 @@
+.. image:: Logo.png
+
 =======================================================
 Enterprise Cloud Adoption Journey: Technical Challenges
 =======================================================
