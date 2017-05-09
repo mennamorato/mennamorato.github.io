@@ -316,6 +316,4 @@ across public clouds with a simple mesh architecture, and is fully
 integrated with Amazon Web Services (AWS), Microsoft Azure and Google
 Cloud Platform.
 
-.. toctree::
-   :caption: Table of Contents
-   :maxdepth: 1
+
